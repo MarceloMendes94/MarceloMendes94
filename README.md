@@ -1,16 +1,29 @@
-### Hi there 👋
+# Marcelo Mendes
+Cursando: Bacharelado de Sistemas de informação - IFES Campus Serra<br>
+✉️ marcelocelularxiaomi@gmail.com<br>
+📱 https://t.me/marcelomendes94
 
-<!--
-**MarceloMendes94/MarceloMendes94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Conhecimentos
+1. Python<br>
+2. Java<br>
+3. Banco de dados e comandos em SQL<br>
+4. Programação WEB<br>
+  4.1 PHP<br>
+  4.2 HTML 5<br>
+  4.3 CSS 3<br>
+  4.4 JS<br>
+5. frameworks web<br>
+  5.1 Node Express<br>
+  5.2 Django<br>
+  5.3 React<br>
+# Projetos 
+## Next level week 1
+<p>
+  <a href="https://github.com/MarceloMendes94/nlw">código fonte</a>
+  <a href="https://recicle-app2020.herokuapp.com/"> link para aplicação WEB</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Next level week 2
+<p>
+  <a href="https://github.com/MarceloMendes94/nlw2">código fonte</a>
+</p>
