@@ -23,7 +23,4 @@ Cursando: Bacharelado de Sistemas de informação - IFES Campus Serra<br>
   <a href="https://recicle-app2020.herokuapp.com/"> link para aplicação WEB</a>
 </p>
 
-## Next level week 2
-<p>
-  <a href="https://github.com/MarceloMendes94/nlw2">código fonte</a>
-</p>
+
