@@ -1,5 +1,6 @@
 # Marcelo Mendes
 Cursando: Bacharelado de Sistemas de informação - IFES Campus Serra<br>
+Desenvolvedor Full Cycle (foco Back-End) | ideyas Innovation na ideyas.it
 ✉️ marcelocelularxiaomi@gmail.com<br>
 📱 https://t.me/marcelomendes94
 
