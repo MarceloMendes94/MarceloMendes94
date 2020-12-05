@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong Python & javascript.</strong>
+  🦄 Linguagens: <strong> Python, javascript e Shell script.</strong>
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Você pode entrar em contato comigo, eu vou tentar não te evangelizar para usar linux: ⤵️
 </p>
 
 <p align="left">
