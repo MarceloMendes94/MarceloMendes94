@@ -1,27 +1,36 @@
-# Marcelo Mendes
-Cursando: Bacharelado de Sistemas de informação - IFES Campus Serra<br>
-Desenvolvedor Full Cycle (foco Back-End) | ideyas Innovation na ideyas.it<br>
-✉️ marcelocelularxiaomi@gmail.com<br>
-📱 https://t.me/marcelomendes94
+<img src="https://github.com/MarceloMendes94/Curriculo/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# Conhecimentos
-1. Python<br>
-2. Java<br>
-3. Banco de dados e comandos em SQL<br>
-4. Programação WEB<br>
-  4.1 PHP<br>
-  4.2 HTML 5<br>
-  4.3 CSS 3<br>
-  4.4 JS<br>
-5. frameworks web<br>
-  5.1 Node Express<br>
-  5.2 Django<br>
-  5.3 React<br>
-# Projetos 
-## Next level week 1
-<p>
-  <a href="https://github.com/MarceloMendes94/nlw">código fonte</a><br/>
-  <a href="https://recicle-app2020.herokuapp.com/"> link para aplicação WEB</a>
+<p align="left"> 
+  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
