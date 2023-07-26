@@ -37,5 +37,18 @@
 https://www.kaggle.com/learn/certification/marcelomendes1994/python
 ### Pandas
 https://www.kaggle.com/learn/certification/marcelomendes1994/pandas
-### intro to machine learning
+### Intro to machine learning
 https://www.kaggle.com/learn/certification/marcelomendes1994/intro-to-machine-learning
+### Data Visualization with python
+https://www.kaggle.com/learn/certification/marcelomendes1994/data-visualization
+
+## Principais Projetos de aprendizado de máquina
+### Titanic
+Projeto de aprendizado de máquina, implementado um pipeline para tratamento dos dados com o cojunto de dados do Titanic
+https://github.com/MarceloMendes94/titanic_auto_ml
+### Cardiotocografia
+Projeto de um classificador implementando um pipeline com balanceamento de carga
+https://github.com/MarceloMendes94/cardiotocografia_ml
+
+## Principais Projetos de análise de dados
+
