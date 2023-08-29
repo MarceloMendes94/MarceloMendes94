@@ -49,5 +49,7 @@ https://github.com/MarceloMendes94/titanic_auto_ml
 Projeto de um classificador implementando um pipeline com balanceamento de carga
 https://github.com/MarceloMendes94/cardiotocografia_ml
 
-## Principais Projetos de análise de dados
 
+## Principais Projetos de análise de dados
+Projeto de uma locadora de veiculos.
+https://github.com/MarceloMendes94/Trabalho_IN 
