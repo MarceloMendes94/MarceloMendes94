@@ -3,7 +3,7 @@
   
   <h3>Bem-vindo, venha aqui e tome um café ☕!</h3>
   
-<h3 align='justify'>Profissional de Sistemas de informação, direcionado para carreira de dados, faço análises de diversas formas em conjuntos de dados de fontes diferentes, como, por exemplo: bancos de dados, planilhas e CRM. Me interesso por inteligência artificial, mais especificamente aprendizado de máquina supervisionado, domino análise exploratória em Python e SQL. Além disso, compreendo processos de negócios e modelagem dimensional, todo o processo de BI do ETL até as visualizações em Dashboards em Python ou Power BI
+  <h3 align='justify'>Profissional de Sistemas de informação, direcionado para carreira de dados, faço análises de diversas formas em conjuntos de dados de fontes diferentes, como, por exemplo: bancos de dados, planilhas e CRM. Me interesso por inteligência artificial, mais especificamente aprendizado de máquina supervisionado, domino análise exploratória em Python e SQL. Além disso, compreendo processos de negócios e modelagem dimensional, todo o processo de BI do ETL até as visualizações em Dashboards em Python ou Power BI
   </h3>
 </div>
 
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt='Netbeans IDE">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt='Netbeans IDE'>
 </div>
 
 
