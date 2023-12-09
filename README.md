@@ -26,7 +26,7 @@
     <li><b>Habilidades Analíticas e Perfeccionismo:</b> </li>
     <li><b>Aprendizado Contínuo e Adaptabilidade:</b> </li>
     <li><b>Resiliência ao Estresse:</b> </li>
-    <li><b>Comunicação Clara e Influência Positiva:</b> </li>
+    <li><b>Comunicação Segura e Influência Positiva:</b> Gosto de criar amizades com as pessoas de onde trabalho, mantenho com muitas que trabalhei, fiz muitos amigos, com pontos em comum em diversas áreas: humor, futebol, Séries, Games e autoconhecimento. Além disso, tenho um bom conhecimento técnico e durante reuniões com clientes e parceiros, me posicionei bem ajudando meus colegas. </li>
   </ul>
 
   <h2>⚡ Principais Repositórios:</h2>
