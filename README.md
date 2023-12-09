@@ -9,26 +9,24 @@
 
 
   <h2>🛠️ Hard Skills:</h2
-  <h5>Corrigir</h5>
+  
   <ul>
     <li>Manipulação de Dados com Python (pandas, numpy)</li>
-    <li>Análise Estatística e Modelagem (Scikit-Learn, Keras e TensorFlow))</li>
+    <li>Análise Estatística e Modelagem (Scikit-Learn e Pandas Profiling))</li>
     <li>Visualização de Dados (Matplotlib, Seaborn, Power BI, Tableau)</li>
     <li>Proficiência em SQL e NoSQL para consultas e análises de bancos de dados (incluindo otimização avançada de consultas e ajuste de desempenho)</li>
     <li>Computação em Nuvem usando AWS, GCP ou Azure (implantando e gerenciando recursos na nuvem, configurando máquinas virtuais e utilizando serviços de nuvem para processamento e armazenamento de dados)</li>
-    <li>Containerização com Docker (criando, gerenciando e orquestrando contêineres para desenvolvimento e implantação eficientes)</li>
     <li>Controle de Versão com Git/Github (desenvolvimento colaborativo de software, criação de branches e fusão de código)</li>
-    <li>Sistemas Operacionais (proficiência em ambientes MacOS e Linux)</li>
+    <li>Sistemas Operacionais (proficiência em ambientes Linux)</li>
   </ul>
 
    <h2>🤝 Soft Skills:</h2>
    <h5>Corrigir</h5>
   <ul>
-    <li><b>Habilidades Analíticas e Perfeccionismo:</b> Eu busco a excelência sempre, aplicando minhas habilidades analíticas para abordar problemas de diversas maneiras e alcançar os melhores resultados possíveis.</li>
-    <li><b>Aprendizado Contínuo e Adaptabilidade:</b> Estou constantemente em busca de novos conceitos, explorando livros, podcasts e até aprimorando minha formação acadêmica, o que fortalece minhas habilidades e conhecimento na área. Essa mentalidade de aprendizado contínuo é crucial em um campo "novo" e em constante evolução, como a Área de Dados.</li>
-    <li><b>Resiliência ao Estresse:</b> Mantenho a calma em situações de alta pressão, uma qualidade crucial para superar desafios no campo da Ciência de Dados, onde diversas variáveis complexas e problemas diversos estão presentes.</li>
-    <li><b>Comunicação Clara e Influência Positiva:</b> Possuo habilidades de comunicação clara e diplomática, o que me permite resolver eficazmente situações e influenciar positivamente as pessoas, facilitando a comunicação com clientes, acionistas, investidores e com os grupos em que trabalho.</li>
-    <li><b>Entusiasmo e Dedicação:</b> Energia contagiante e dedicação inabalável para as atividades profissionais são traços essenciais para enfrentar os desafios da Ciência de Dados.</li>
+    <li><b>Habilidades Analíticas e Perfeccionismo:</b> </li>
+    <li><b>Aprendizado Contínuo e Adaptabilidade:</b> </li>
+    <li><b>Resiliência ao Estresse:</b> </li>
+    <li><b>Comunicação Clara e Influência Positiva:</b> </li>
   </ul>
 
   <h2>⚡ Principais Repositórios:</h2>
@@ -111,7 +109,7 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>
+</div>-->
 
 ## Certificados
 ### Python 3
@@ -122,11 +120,3 @@ https://www.kaggle.com/learn/certification/marcelomendes1994/pandas
 https://www.kaggle.com/learn/certification/marcelomendes1994/intro-to-machine-learning
 ### Data Visualization with python
 https://www.kaggle.com/learn/certification/marcelomendes1994/data-visualization
-
-
-
-
-## Principais Projetos de análise de dados
-Projeto de uma locadora de veiculos.  
-https://github.com/MarceloMendes94/Trabalho_IN 
--->
