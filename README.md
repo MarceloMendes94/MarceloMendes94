@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt='Netbeans IDE">
 </div>
 
+
 <div>
   <h3>🌱 Estou Aprendendo:</h3>
    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
@@ -76,7 +77,7 @@
    <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="Spark">
    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
 </div>
-
+</div>
 
 <div>
  <h3>📊 Meus Status no Github:</h3>
@@ -85,6 +86,7 @@
    <img src="https://streak-stats.demolab.com?user=MarceloMendes94&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   </div>
 </div>
+
 
 <div id="header" align="center">
    <h3>Obrigado pela sua visita, você é sempre bem-vindo! Se você tiver mais perguntas ou precisar de mais assistência, sinta-se à vontade para perguntar. Você pode se conectar comigo abaixo.</h3>
@@ -96,45 +98,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- old -->
+<!--
 <hr>
 
 <div style="display:inline_block"> <br>
@@ -163,3 +127,4 @@ https://www.kaggle.com/learn/certification/marcelomendes1994/data-visualization
 ## Principais Projetos de análise de dados
 Projeto de uma locadora de veiculos.  
 https://github.com/MarceloMendes94/Trabalho_IN 
+-->
