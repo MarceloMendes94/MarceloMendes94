@@ -8,7 +8,8 @@
 </div>
 
 
-  <h2>🛠️ Hard Skills:</h2>
+  <h2>🛠️ Hard Skills:</h2
+  <h5>Corrigir</h5>
   <ul>
     <li>Manipulação de Dados com Python (pandas, numpy)</li>
     <li>Análise Estatística e Modelagem (Scikit-Learn, Keras e TensorFlow))</li>
@@ -21,6 +22,7 @@
   </ul>
 
    <h2>🤝 Soft Skills:</h2>
+   <h5>Corrigir</h5>
   <ul>
     <li><b>Habilidades Analíticas e Perfeccionismo:</b> Eu busco a excelência sempre, aplicando minhas habilidades analíticas para abordar problemas de diversas maneiras e alcançar os melhores resultados possíveis.</li>
     <li><b>Aprendizado Contínuo e Adaptabilidade:</b> Estou constantemente em busca de novos conceitos, explorando livros, podcasts e até aprimorando minha formação acadêmica, o que fortalece minhas habilidades e conhecimento na área. Essa mentalidade de aprendizado contínuo é crucial em um campo "novo" e em constante evolução, como a Área de Dados.</li>
