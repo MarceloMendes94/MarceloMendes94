@@ -30,13 +30,18 @@
   </ul>
 
   <h2>⚡ Principais Repositórios:</h2>
-<h4>Aprendizado de máquina</h4>
-<a href="https://github.com/MarceloMendes94/titanic_auto_ml"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMendes94&repo=titanic_auto_ml&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Data Roadmap">
-</a>
-<a href="https://github.com/MarceloMendes94/cardiotocografia_ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMendes94&repo=cardiotocografia_ml&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Stock Market App">
-</a>
+  <h4>Análise de dados</h4>
+  <a href="https://github.com/MarceloMendes94/dash_comercial"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMendes94&repo=dash_comercial&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Data Roadmap">
+  </a>
+  <br>
+  <h4>Aprendizado de máquina</h4>
+  <a href="https://github.com/MarceloMendes94/titanic_auto_ml"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMendes94&repo=titanic_auto_ml&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Data Roadmap">
+  </a>
+  <a href="https://github.com/MarceloMendes94/cardiotocografia_ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloMendes94&repo=cardiotocografia_ml&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Stock Market App">
+  </a>
 
 <h2>🚀 Linguagens e Outras Ferramentas:</h2>
 
